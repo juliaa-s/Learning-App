@@ -1,5 +1,3 @@
 # Learning App for Understanding the idea behind easy sorting algorithms
 
-## Getting Started
-
-For installing the app, see the file build/app/outputs/flutter-apk/app-release.apk
+For installing the app, download the file build/app/outputs/flutter-apk/app-release.apk and open it on your android phone.
