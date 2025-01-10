@@ -1,0 +1,4 @@
+#Fri Jan 10 13:04:34 EET 2025
+base.0=/home/julia/uni/09/didactics/lernapp/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
